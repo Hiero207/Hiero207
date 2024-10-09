@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiero207
 - 👀 I’m interested in mostly programming, tinkering, and general nonsense
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Godot for gamedev and circuit design.
 
 <!---
 Hiero207/Hiero207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
